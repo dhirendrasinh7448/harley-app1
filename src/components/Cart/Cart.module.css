@@ -1,0 +1,33 @@
+.cart {
+  max-width: 30rem;
+  background-color: rgba(0, 0, 0, 0.76);
+  color: rgb(214, 205, 205);
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+
+.cart h2 {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  color:#3a3a3a;
+}
+.redHeader{
+  color:red;
+}
+
+.btn{
+  margin: 0.5%;
+}

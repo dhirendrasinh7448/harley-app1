@@ -1,0 +1,27 @@
+
+.buttonUI{
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  height: 5rem;
+  padding: 0 5%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #252424;
+}
+
+.header h1 {
+  color: white;
+}
+
+.header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

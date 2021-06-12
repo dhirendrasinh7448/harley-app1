@@ -1,0 +1,16 @@
+
+
+
+.button:hover,
+.button:active {
+  color: rgb(247, 248, 247);
+}
+
+.button span {
+  margin: 0 0.5rem;
+}
+.badge{
+  background-color: rgb(177, 27, 22);
+  padding: 0.1rem 0.6rem;
+  border-radius: 50%;
+}

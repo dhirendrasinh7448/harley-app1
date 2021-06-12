@@ -1,0 +1,44 @@
+.products h2 {
+  color: white;
+  margin: 2rem auto;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.products ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.viewDetails{
+  position: relative;
+  top:35%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+section p {
+  text-align: center;
+  color: cornsilk;
+  max-width: 30%;
+}
+
+img{
+  width: 30%;
+  height: 25%;
+  position: relative;
+  top:25%;
+  left:45%;
+  transform: translate(-67%, -10%);
+  margin: 2%;
+}
+
+section input {
+  position: relative;
+  width: 30%;
+  font-size: large;
+  left:50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
